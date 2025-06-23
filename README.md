@@ -2,7 +2,6 @@
 
 This repository presents a comprehensive risk assessment project focused on **Walmart’s use of AI in supply chain and logistics**. It combines qualitative evaluation with quantitative predictive modeling to identify, visualize, and classify the severity of operational, technical, and compliance-related risks.
 
----
 
 ## 🚀 Project Objective
 
@@ -12,7 +11,6 @@ To assess and predict potential risks associated with Walmart’s AI-driven oper
 - A **risk heatmap** to visualize severity.
 - A **machine learning model** (Random Forest) to predict risk levels (Low, Medium, High).
 
----
 
 ## 📁 Project Structure
 
