@@ -6,6 +6,8 @@ This repository presents a comprehensive risk assessment project focused on **Wa
 
 ## Project Objective
 
+The goal is to assess potential risks (both negative and positive) arising from the use of AI in Walmart's evolving supply chain ecosystem, then visualize and predict these risks using analytical and machine learning techniques. This ensures data-driven risk prioritization to support smarter governance and strategic planning.
+
 To assess and predict potential risks associated with Walmart’s AI-driven operations. The project includes:
 
 - A detailed **risk register** with Likelihood and Impact scores.
